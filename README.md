@@ -5,7 +5,7 @@ Estudando (On-hold):
 * ⌨️ JavaScript; 
 * 🗾 Japonês;
            
-Fiz parte da primeira turma da Warren Tech Academy, e agora estou no programa Jovem Aprendiz da Warren Brasil!
+Fiz parte da primeira turma da Warren Tech Academy, e agora estou no programa Jovem Aprendiz pela Warren Brasil!
 
 Ele/ Dele 🏳️‍🌈
 
