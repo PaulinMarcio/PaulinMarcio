@@ -1,8 +1,8 @@
 Eai! 🤙
 
-Estudando (On-hold): 
+Estudando: 
 * ⌨️ Python; 
-* ⌨️ JavaScript; 
+* ⌨️ JavaScript (On-hold); 
 * 🗾 Japonês;
            
 Fiz parte da primeira turma da Warren Tech Academy, e agora estou no programa Jovem Aprendiz pela Warren Brasil!
